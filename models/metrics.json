@@ -1,0 +1,15 @@
+{
+  "metrics": {
+    "accuracy": 0.981,
+    "precision": 0.9314,
+    "recall": 0.9777,
+    "f1": 0.954
+  },
+  "feature_importance": {
+    "vibration": 0.375,
+    "temperature": 0.261,
+    "current": 0.256,
+    "pressure": 0.096,
+    "rpm": 0.012
+  }
+}

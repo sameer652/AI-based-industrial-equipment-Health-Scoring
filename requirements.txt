@@ -1,0 +1,13 @@
+ pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+pydantic
+streamlit
+plotly
+requests
+paho-mqtt>=2.0
+pytest
+httpx
